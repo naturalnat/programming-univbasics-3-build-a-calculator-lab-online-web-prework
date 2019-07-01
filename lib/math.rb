@@ -20,4 +20,5 @@ end
 
 def square_root(num)
 math.sqrt(num)
+puts num.sqrt
 end
