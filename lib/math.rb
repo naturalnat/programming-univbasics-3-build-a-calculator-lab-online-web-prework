@@ -20,5 +20,4 @@ end
 
 def square_root(num)
 math.sqrt(num).to_i
-puts num.sqrt
 end
